@@ -10,7 +10,7 @@ export default function Home() {
             Engineering & Technical Consulting
           </span>
           <h1 className="text-5xl md:text-7xl font-bold mt-8 mb-6 tracking-tight">
-            Advanced <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-indigo-500">System Design</span>
+          Technical <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-indigo-500">Engineering Partner</span>
           </h1>
           <p className="text-lg text-neutral-400 mb-10 max-w-2xl mx-auto">
             Professional technical consulting for embedded systems and hardware integration. 
