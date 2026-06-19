@@ -10,14 +10,15 @@ export default function Home() {
             Engineering & Technical Consulting
           </span>
           <h1 className="text-5xl md:text-7xl font-bold mt-8 mb-6 tracking-tight">
-          Technical <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-indigo-500">Engineering Partner</span>
+            Technical <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-indigo-500">Engineering Partner</span>
           </h1>
           <p className="text-lg text-neutral-400 mb-10 max-w-2xl mx-auto">
             Professional technical consulting for embedded systems and hardware integration. 
             Providing expertise in firmware development, architecture, and engineering process optimization.
           </p>
           <div className="flex gap-4 justify-center">
-            <a href="mailto:your-email@example.com" className="bg-blue-600 hover:bg-blue-500 text-white px-8 py-4 rounded-xl font-bold transition-all">
+            {/* ТУТ ВПИШІТЬ ВАШУ ПОШТУ ПІСЛЯ mailto: */}
+            <a href="mailto:ВАША_ПОШТА@example.com" className="bg-blue-600 hover:bg-blue-500 text-white px-8 py-4 rounded-xl font-bold transition-all">
               Request Consultation
             </a>
           </div>
@@ -52,7 +53,8 @@ export default function Home() {
             <p className="text-neutral-500 mt-2">Professional Engineering Services</p>
           </div>
           <div className="text-right">
-            <p className="text-neutral-300">Email: <a href="mailto:contact@yourdomain.com" className="text-blue-400 hover:underline">contact@yourdomain.com</a></p>
+            {/* ТУТ ТЕЖ ВПИШІТЬ ВАШУ ПОШТУ ПІСЛЯ mailto: */}
+            <p className="text-neutral-300">Email: <a href="mailto:ВАША_ПОШТА@example.com" className="text-blue-400 hover:underline">ВАША_ПОШТА@example.com</a></p>
             <p className="text-neutral-300">Phone: <a href="tel:+380XXXXXXXXX" className="text-blue-400 hover:underline">+380 XX XXX XX XX</a></p>
           </div>
         </div>
