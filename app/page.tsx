@@ -18,7 +18,7 @@ export default function Home() {
           </p>
           <div className="flex gap-4 justify-center">
             {/* ТУТ ВПИШІТЬ ВАШУ ПОШТУ ПІСЛЯ mailto: */}
-            <a href="mailto:ВАША_ПОШТА@example.com" className="bg-blue-600 hover:bg-blue-500 text-white px-8 py-4 rounded-xl font-bold transition-all">
+            <a href="mailto:Dudinski12@ukr.net" className="bg-blue-600 hover:bg-blue-500 text-white px-8 py-4 rounded-xl font-bold transition-all">
               Request Consultation
             </a>
           </div>
@@ -54,8 +54,8 @@ export default function Home() {
           </div>
           <div className="text-right">
             {/* ТУТ ТЕЖ ВПИШІТЬ ВАШУ ПОШТУ ПІСЛЯ mailto: */}
-            <p className="text-neutral-300">Email: <a href="mailto:ВАША_ПОШТА@example.com" className="text-blue-400 hover:underline">ВАША_ПОШТА@example.com</a></p>
-            <p className="text-neutral-300">Phone: <a href="tel:+380XXXXXXXXX" className="text-blue-400 hover:underline">+380 XX XXX XX XX</a></p>
+            <p className="text-neutral-300">Email: <a href="mailto:Dudinski12@ukr.net" className="text-blue-400 hover:underline">Dudinski12@ukr.net</a></p>
+            <p className="text-neutral-300">Phone: <a href="tel:+380997598124" className="text-blue-400 hover:underline">+380 99 759 81 24</a></p>
           </div>
         </div>
         <div className="text-center mt-12 text-neutral-600 text-sm">
